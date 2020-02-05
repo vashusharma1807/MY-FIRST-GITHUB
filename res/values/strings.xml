@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_add_new_item">AddNewItemActivity</string>
+    <string name="title_activity_delete_item">DeleteItem</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title_activity_view_all">ViewAllActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_to_view">ToView</string>
+    <string name="title_activity_update_stock">UpdateStock</string>
+</resources>
